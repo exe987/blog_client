@@ -1,0 +1,19 @@
+export const START_GET_POSTS = "START_GET_POSTS";
+export const GET_POSTS = "GET_POSTS";
+export const GET_POSTS_ERROR = "GET_POSTS_ERROR";
+
+export const START_ADD_POST = "START_ADD_POST";
+export const ADD_POST = "ADD_POST";
+export const ERROR_ADD_POST = "ERROR_ADD_POST";
+
+export const CATCH_POST_DELETE = "CATCH_POST_DELETE";
+export const DELETE_POST = "DELETE_POST";
+export const ERROR_DELETE_POST = "ERROR_DELETE_POST";
+
+export const CATCH_POST_UPDATE = "CATCH_POST_UPDATE";
+export const START_UPDATE_POST = "START_UPDATE_POST";
+export const UPDATE_POST = "UPDATE_POST";
+export const ERROR_UPDATE_POST = "ERROR_UPDATE_POST";
+
+export const CATCH_POST_READ = "CATCH_POST_READ";
+export const CANCEL_POST_READ = "CANCEL_POST_READ";
